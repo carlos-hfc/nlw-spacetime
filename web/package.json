@@ -18,6 +18,7 @@
   },
   "devDependencies": {
     "@ch-faustino/eslint-config": "^1.0.1",
+    "@tailwindcss/forms": "^0.5.7",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",

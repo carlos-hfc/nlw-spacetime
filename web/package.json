@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "axios": "^1.6.8",
+    "dayjs": "^1.11.11",
+    "js-cookie": "^3.0.5",
     "jwt-decode": "^4.0.0",
     "lucide-react": "^0.378.0",
     "next": "14.2.3",
@@ -19,6 +21,7 @@
   "devDependencies": {
     "@ch-faustino/eslint-config": "^1.0.1",
     "@tailwindcss/forms": "^0.5.7",
+    "@types/js-cookie": "^3.0.6",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
